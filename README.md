@@ -192,7 +192,9 @@ Response:
 Using Client's own AUTH parameters In order to get a custom number of posts from a specific subreddit, specify the name of the subreddit and the count in the following endpoints.
 
 Endpoint :  {client_key}/{secret_key}/{app_name}/{count}/{subreddit}/{count}
+
 Example: https:/ms-reddit-meme.azurewebsites.net/<client_id>/<secret_key>/<app_name>/memes/2
+
 Response :-
 
 ```lua
