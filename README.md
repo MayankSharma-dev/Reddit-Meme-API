@@ -5,7 +5,7 @@ To fetch memes, PRAW is used to scrape memes from Reddit subreddits and return t
 Based on FLask & PRAW
 REST API link: <a href="http://ms-reddit-meme.azurewebsites.net">http://ms-reddit-meme.azurewebsites.net
 
-##The currently hosted API is built on FASTAPI and includes additional features, whereas this repository code represents the previous version.
+## The currently hosted API is built on FASTAPI and includes additional features, whereas this repository code represents the previous version.
 
 It is a free and simple API, you can use it for your projects(only for educational purposes).
 
