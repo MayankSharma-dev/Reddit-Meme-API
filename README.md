@@ -187,7 +187,7 @@ Response:
 }
 ```
 
-##With client's own auth perameters. Specific Subreddit & Count (MAX 29)
+## With client's own auth perameters. Specific Subreddit & Count (MAX 29)
 
 Using Client's own AUTH parameters In order to get a custom number of posts from a specific subreddit, specify the name of the subreddit and the count in the following endpoints.
 
