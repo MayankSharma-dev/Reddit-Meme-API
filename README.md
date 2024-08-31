@@ -4,7 +4,7 @@ Reddit Meme API | A REST API for scrapping memes from Reddit
 To fetch memes, PRAW is used to scrape memes from Reddit subreddits and return them in JSON format.
 Based on Flask & PRAW.
 
-REST API link: <a href="http://ms-reddit-meme.azurewebsites.net">http://ms-reddit-meme.azurewebsites.net
+REST API link: <a href="http://ms-reddit-memes.azurewebsites.net">http://ms-reddit-memes.azurewebsites.net
 
 ## The currently hosted API is built on FASTAPI and includes additional features, whereas this repository code represents the previous version.
 
@@ -54,7 +54,7 @@ In order to get multiple memes in a single request from the default subreddits, 
 
 Endpoint: /{count}
 
-Example: https:/ms-reddit-meme.azurewebsites.net/2
+Example: https:/ms-reddit-memes.azurewebsites.net/2
 
 Response:
 
@@ -105,7 +105,7 @@ In order to get a random posts from any subreddit, specify the subreddit name in
 
 Endpoint: /{subreddit}
 
-Example: https:/ms-reddit-meme.azurewebsites.net/dankmemes
+Example: https:/ms-reddit-memes.azurewebsites.net/dankmemes
 
 Response:
 
@@ -140,7 +140,7 @@ In order to get a custom number of posts from a specific subreddit, specify the 
 
 Endpoint: /{subreddit}/{count}
 
-Example: https:/ms-reddit-meme.azurewebsites.net/memes/2
+Example: https:/ms-reddit-memes.azurewebsites.net/memes/2
 
 Response:
 ```lua
@@ -193,7 +193,7 @@ Using Client's own AUTH parameters In order to get a custom number of posts from
 
 Endpoint :  {client_key}/{secret_key}/{app_name}/{count}/{subreddit}/{count}
 
-Example: https:/ms-reddit-meme.azurewebsites.net/<client_id>/<secret_key>/<app_name>/memes/2
+Example: https:/ms-reddit-memes.azurewebsites.net/<client_id>/<secret_key>/<app_name>/memes/2
 
 Response :-
 
