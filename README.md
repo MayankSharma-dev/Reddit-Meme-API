@@ -18,7 +18,7 @@ By default the API grabs a random meme from
 "dankmemes", "memes", "HistoryMemes", "AdviceAnimals", "me_irl", "ComedyCemetery", "terriblefacebookmemes",
   "HindiMemes", "dankinindia", "IndianDankMemes", "indiameme", "ProgrammerHumor", "depression_memes", "YouSeeComrade"
 
-Example: http://ms-reddit-meme.azurewebsites.net
+Example: http://ms-reddit-memes.azurewebsites.net
 Example Response:
 
 ```lua
