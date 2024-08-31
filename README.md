@@ -4,7 +4,7 @@ Reddit Meme API | A REST API for scrapping memes from Reddit
 To fetch memes, PRAW is used to scrape memes from Reddit subreddits and return them in JSON format.
 Based on Flask & PRAW.
 
-REST API link: <a href="http://ms-reddit-memes.azurewebsites.net">http://ms-reddit-memes.azurewebsites.net
+REST API link: <a href="http://ms-reddit-memes.azurewebsites.net/about">http://ms-reddit-memes.azurewebsites.net/about
 
 ## The currently hosted API is built on FASTAPI and includes additional features, whereas this repository code represents the previous version.
 
